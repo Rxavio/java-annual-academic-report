@@ -29,8 +29,6 @@ everything will be automatically calculate.
 - **Netbeans** - an integrated development environment(IDE) for Java.
 - **Google chrome** - a cross-platform web browser developed by Google, this used for database to call phpmyadmin with the help of xampp server. 
 
-![alt text](http://url/to/img.png)
-
 checkout the pdf final output report here https://drive.google.com/open?id=14NlgWdt81Oruw5evv-i_uv77yMsD9nZT
 
 ## Author
