@@ -1,6 +1,8 @@
 # Annual-Academic-Report
 
 Annual-academic-report developped in netbeans IDE and MySQL,The goals of this project is to help teachers to perform everything related to the Annual academic report very easy.
+You don't have to spend day and days calculating the total marks and other stuffs, just enter the test and examen marks
+everything will be automatically calculate.
 
 ## Features
 
