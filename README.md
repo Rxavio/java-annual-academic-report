@@ -10,6 +10,8 @@ Annual-academic-report developped in netbeans IDE and MySQL,The goals of this pr
 - teacher can view student record
 - teacher can delete student record
 - teacher can search student record
+- teacher can upload student photo
+- teacher can update student photo
 - teacher can print necessary student records
 - teacher can logout
 - Admin can login
