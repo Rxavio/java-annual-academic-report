@@ -4,17 +4,17 @@ Annual-academic-report developped in netbeans IDE and MySQL,The goals of this pr
 
 ## Features
 
--- teacher can login
--- teacher can add new student record
--- teacher can update student record
--- teacher can view student record
--- teacher can delete student record
--- teacher can search student record
--- teacher can print necessary student records
--- teacher can logout
--- Admin can login
--- Admin can sign up teacher
--- admin can update teacher account
--- admin can delete teacher account
--- admin can view teachers account
+- teacher can login
+- teacher can add new student record
+- teacher can update student record
+- teacher can view student record
+- teacher can delete student record
+- teacher can search student record
+- teacher can print necessary student records
+- teacher can logout
+- Admin can login
+- Admin can sign up teacher
+- admin can update teacher account
+- admin can delete teacher account
+- admin can view teachers account
 
