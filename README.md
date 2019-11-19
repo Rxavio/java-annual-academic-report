@@ -22,7 +22,7 @@ Annual-academic-report developped in netbeans IDE and MySQL,The goals of this pr
 
 # **Technonlogies**
 
-- **Xampp or WampServer** - A Windows Web development environment for Apache, MySQL etc
+- **Xampp Server** - A Windows Web development environment for Apache, MySQL etc
 - **java** -  Runtime Environment, is also referred to as the Java Runtime Environment(JRE).
 - **Netbeans** - an integrated development environment(IDE) for Java.
 - **Google chrome** - a cross-platform web browser developed by Google, this used for database to call phpmyadmin with the help of xampp server. 
